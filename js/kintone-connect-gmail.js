@@ -64,7 +64,7 @@
             lang: 'en',
             i18n: {},
             app: {
-                appClientID: "", /* Your google app client ID */
+                appClientID: "172456690859-2o9omoib8btfrp05j2rm6j1q1qchbg8h.apps.googleusercontent.com", /* Your google app client ID */
                 fieldsCode: {
                     attachment: "attachment",
                     bcc: "bcc",
